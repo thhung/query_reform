@@ -9,6 +9,7 @@ from optimum.onnxruntime import (ORTModelForSequenceClassification,
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer
 
+
 # folder contains all assets for this project
 ASSET_FOLDER = "./assets/"
 
